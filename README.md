@@ -1,4 +1,4 @@
-# 2021 MakeNTU Submission Guideline
+# 2021 MakeNTU Submission Guidelines
 
 **感謝B05許秉倫學長 [ByronHsu](https://github.com/ByronHsu) 參與討論**
 
